@@ -1,4 +1,4 @@
-import { GoogleGenerativeAI } from "@google/generativeai";
+import { GoogleGenerativeAI } from "@google/genai";
 import { PROMPT_TEMPLATE } from '../constants';
 
 // Vercel 환경 변수를 가져오는 올바른 방법으로 수정합니다.
