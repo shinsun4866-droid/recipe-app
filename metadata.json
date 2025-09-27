@@ -1,0 +1,5 @@
+{
+  "name": "Copy of What to Eat Today? Recipe Generator",
+  "description": "An AI-powered recipe generator that suggests dishes based on the ingredients you have. It provides recipes, ingredient lists, and AI-generated images of the final dish.",
+  "requestFramePermissions": []
+}
